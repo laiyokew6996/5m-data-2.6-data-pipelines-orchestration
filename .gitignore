@@ -5,3 +5,5 @@ output/*.db*
 *.pyc
 __pycache__/
 .env
+
+sincere-stock-505109-ml-3bb6eaf446e2.json
